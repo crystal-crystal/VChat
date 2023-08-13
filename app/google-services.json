@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486170364796",
+    "project_id": "chatapp-2e51a",
+    "storage_bucket": "chatapp-2e51a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486170364796:android:148397a8f083293c0372f9",
+        "android_client_info": {
+          "package_name": "com.myprojects.vchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486170364796-lm18t56nl4702k9ir1s80527bqtt59ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9b3NCXbfQBHvma8VmZpZBH4rBsAzHqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486170364796-lm18t56nl4702k9ir1s80527bqtt59ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
